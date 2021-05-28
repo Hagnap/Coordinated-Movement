@@ -125,8 +125,8 @@ public class FormationController : MonoBehaviour
             }
             if (assignedNumber == 3)
             {
-                distanceOffset = 2.0f;
-                rotationOffset = 60;
+                distanceOffset = 2.25f;
+                rotationOffset = 75f;
             }
         }
         
