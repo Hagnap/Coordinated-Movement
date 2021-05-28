@@ -193,7 +193,7 @@ public class FormationController : MonoBehaviour
             }
         }
 
-        // Defualts to the last position
+        // Defualts to the last formation
         
         else
         {
