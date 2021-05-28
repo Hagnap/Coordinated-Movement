@@ -4,10 +4,10 @@ Uses a Kinematic Movement System to create various formations. There are four fo
 
 Implemented Formations: 
                         
-                        - Four Finger Formation
+                        * Four Finger Formation
                        
-                        - Wall Formation
+                        * Wall Formation
                         
-                        - Defensive Formation
+                        * Defensive Formation
                         
-                        - Two Abreast in the Corner Formation
+                        * Two Abreast in the Corner Formation
